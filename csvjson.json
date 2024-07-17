@@ -1,0 +1,90 @@
+[
+  {
+    "Categoría": "SNACK",
+    "Nombre": "EDAMAME",
+    "Variaciones": "SALT",
+    "Descripció": "",
+    "Allergias": "VG - V",
+    "Precio": 45
+  },
+  {
+    "Categoría": "SNACK",
+    "Nombre": "EDAMAME",
+    "Variaciones": "CHILI",
+    "Descripció": "",
+    "Allergias": "VG - V",
+    "Precio": 45
+  },
+  {
+    "Categoría": "SNACK",
+    "Nombre": "VIETNAMESE ROLLS",
+    "Variaciones": "",
+    "Descripció": "Sweet chili",
+    "Allergias": "VG - V - GF",
+    "Precio": 50
+  },
+  {
+    "Categoría": "SNACK",
+    "Nombre": "KOREAN FRIED CHICKEN",
+    "Variaciones": "",
+    "Descripció": "PICKLED MOOLI",
+    "Allergias": "S",
+    "Precio": 80
+  },
+  {
+    "Categoría": "SNACK",
+    "Nombre": "PRAWN TOAST",
+    "Variaciones": "",
+    "Descripció": "SESAME, SWEET CHILI DIP",
+    "Allergias": "SH",
+    "Precio": 65
+  },
+  {
+    "Categoría": "SALADS",
+    "Nombre": "ASIAN CORN SALAD",
+    "Variaciones": "",
+    "Descripció": "MIZUNA LEAVES, GRILLED CORN, MISO DRESSING",
+    "Allergias": "V - N",
+    "Precio": 75
+  },
+  {
+    "Categoría": "SALADS",
+    "Nombre": "KING CRAB SALAD",
+    "Variaciones": "",
+    "Descripció": "KUMQUAT, FENNEL, ENDIVE, BROWN CRAB MAYO",
+    "Allergias": "SH",
+    "Precio": 115
+  },
+  {
+    "Categoría": "SALADS",
+    "Nombre": "DASHI MARINATED TOMATO",
+    "Variaciones": "",
+    "Descripció": "BURRATA, PESTO, BALSAMIC, PEARLS",
+    "Allergias": "GF - VG - D",
+    "Precio": 85
+  },
+  {
+    "Categoría": "FLATBREADS",
+    "Nombre": "MARGARTIA Y BURRATA",
+    "Variaciones": "",
+    "Descripció": "TANGY TOMATO SAUCE, MOZZARELLA",
+    "Allergias": "VG - D",
+    "Precio": 90
+  },
+  {
+    "Categoría": "FLATBREADS",
+    "Nombre": "PEPPERONI",
+    "Variaciones": "",
+    "Descripció": "PEPPERONI, TANGY TOMATO, MOZZARELLA, CHILI OIL",
+    "Allergias": "D",
+    "Precio": 95
+  },
+  {
+    "Categoría": "FLATBREADS",
+    "Nombre": "THAI CHILI CHICKEN",
+    "Variaciones": "",
+    "Descripció": "TOASTED COCONUT, PEANUT, PAPAYA",
+    "Allergias": "D - N - S - SH",
+    "Precio": 95
+  }
+]
